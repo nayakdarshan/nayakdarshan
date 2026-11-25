@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Darshan Nayak, Frontend Engineer" src="assets/header-light.svg" width="100%">
+  <img alt="Darshan Nayak, Full-stack Engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
 <br><br>
@@ -18,11 +18,11 @@
 
 ### Hi, I'm Darshan.
 
-I build frontends that stay fast and calm as they grow. Four years of Angular, TypeScript and RxJS, from network management platforms to design systems shared across Angular and React teams.
+Full-stack engineer with a frontend focus. I build interfaces that stay fast and calm as they grow, and the Node.js and Express APIs behind them. Four years of Angular, TypeScript and RxJS, from network management platforms to design systems shared across Angular and React teams.
 
 - **Now** &nbsp; Software Developer at Luxoft, a DXC company, building design-system tooling across Angular and React.
 - **Before** &nbsp; Terralogic, on a micro-frontend network management platform built with Angular, NgRx and RxJS.
-- **On the side** &nbsp; Small tools that remove friction, usually with an AI model inside.
+- **On the side** &nbsp; End-to-end products: Angular or Next.js on the front, Node.js, Express, MongoDB, Supabase and serverless workers behind, usually with an AI model inside.
 - **Based in** &nbsp; Bengaluru, India.
 
 <br>
