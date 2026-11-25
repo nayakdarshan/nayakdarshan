@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Darshan Nayak, Full-stack Engineer" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-fs-dark.svg">
+  <img alt="Darshan Nayak, Full-stack Engineer" src="assets/header-fs-light.svg" width="100%">
 </picture>
 
 <br><br>
