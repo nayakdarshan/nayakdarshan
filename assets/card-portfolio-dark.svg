@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+  <rect x="0.5" y="0.5" width="579" height="249" rx="22" fill="#111113" stroke="#2c2c2e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <circle cx="40" cy="44" r="8" fill="#bf5af2"/>
+    <text x="58" y="50" font-size="13" font-weight="600" letter-spacing="1.5" fill="#a1a1a6">FULL-STACK SHOWCASE</text>
+    <text x="32" y="88" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#f5f5f7">Portfolio</text>
+    <text x="32" y="120" font-size="16" fill="#a1a1a6">Personal site with motion and 3D, backed by</text><text x="32" y="146" font-size="16" fill="#a1a1a6">an API and a content database.</text>
+    <rect x="32" y="192" width="96" height="28" rx="14" fill="#1c1c1e"/><text x="80.0" y="211" font-size="13" font-weight="500" text-anchor="middle" fill="#d1d1d6">Angular 18</text><rect x="136" y="192" width="72" height="28" rx="14" fill="#1c1c1e"/><text x="172.0" y="211" font-size="13" font-weight="500" text-anchor="middle" fill="#d1d1d6">Express</text><rect x="216" y="192" width="72" height="28" rx="14" fill="#1c1c1e"/><text x="252.0" y="211" font-size="13" font-weight="500" text-anchor="middle" fill="#d1d1d6">MongoDB</text><rect x="296" y="192" width="48" height="28" rx="14" fill="#1c1c1e"/><text x="320.0" y="211" font-size="13" font-weight="500" text-anchor="middle" fill="#d1d1d6">GSAP</text>
+  </g>
+</svg>

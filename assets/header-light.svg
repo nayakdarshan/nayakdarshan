@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <radialGradient id="g1" cx="22%" cy="10%" r="70%">
+      <stop offset="0" stop-color="#d6e4ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fbfbfd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="85%" cy="95%" r="60%">
+      <stop offset="0" stop-color="#f3dcff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fbfbfd" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" x2="1">
+      <stop offset="0" stop-color="#2997ff"/>
+      <stop offset="0.5" stop-color="#7a5cff"/>
+      <stop offset="1" stop-color="#e3428a"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="340" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="340" fill="#fbfbfd"/>
+    <rect width="1200" height="340" fill="url(#g1)"/>
+    <rect width="1200" height="340" fill="url(#g2)"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="118" font-size="20" font-weight="600" letter-spacing="3" fill="#6e6e73">FRONTEND ENGINEER</text>
+    <text x="600" y="196" font-size="76" font-weight="700" letter-spacing="-2" fill="#1d1d1f">Darshan Nayak</text>
+    <text x="600" y="252" font-size="30" font-weight="600" letter-spacing="-0.5" fill="url(#txt)">Interfaces that feel effortless.</text>
+    <text x="600" y="296" font-size="18" fill="#6e6e73">Angular  ·  TypeScript  ·  RxJS  ·  NgRx  ·  Micro-frontends  ·  Design systems</text>
+  </g>
+</svg>
